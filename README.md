@@ -16,7 +16,7 @@ customer demographics such as age, educational level e.t.c influences customers 
 toward defaulting. The board specifically wants to anticipate future customer behavior
 and know the likelihood of deposits from customers.
 
-Nexux wants to understand how effective their campaigns are and thus
+Nexus Bank wants to understand how effective their campaigns are and thus
 develop marketing campaigns to reach specific customer segments. By analyzing
 customer behaviors, loan trends, and marketing campaign effectiveness, Nexus wants to
 optimize its operations, mitigate risks/ loan defaults, and improve customer deposits.
@@ -46,9 +46,12 @@ When it comes to market campaign, over 81% of the previous campaigns have unknow
 
 
 
-#Recommendation
-To increase deposits, interest rate can be increased, zero withdrawal rate can be implemented via online or mobile banking, little or no money transfer rates can be implemented. This would persuade customers to deposit their money much more in the bank.
-Customers constantly need reminders and convincing on the benefit of a product before purchase so implementing a lesser timeframe between campaigns could be more effective.
+### Recommendations
+To increase deposits, interest rate can be increased to attract more funds to the bank, zero withdrawal rate can also be implemented via online or mobile banking.
+
+The bank needs an aggressive customer marketing campaign to attract customer with secondary adn tertiary education who have white or blue collar jobs.
+
 Social media platforms should be utilized, these are usually cheaper especially with organic engagement of posts and referrals. Then broadcast and Radio stations could be used as the age range of majority of the customers are adults, they are more inclined towards the TV stations and still listen to radio channels.
-Limitation
-The data had a lot of unknown and other values which could have affected the results of the analysis
+
+
+The bank needs to do more in regards to its data collection as alot of features have unknown values.
