@@ -1,5 +1,5 @@
 ## Nexus-Bank-Customer-Segmentation-Project
-# Problem Statement
+### Problem Statement
 Nexus Bank is a financial institution dedicated to
 delivering unparalleled banking services to their clients. Their mission
 is to establish enduring relationships with their customers by
