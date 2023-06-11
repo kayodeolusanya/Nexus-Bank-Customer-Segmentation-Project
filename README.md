@@ -1,5 +1,5 @@
 ## Nexus-Bank-Customer-Segmentation-Project
-
+# Problem Statement
 Nexus Bank is a financial institution dedicated to
 delivering unparalleled banking services to their clients. Their mission
 is to establish enduring relationships with their customers by
@@ -23,7 +23,7 @@ optimize its operations, mitigate risks/ loan defaults, and improve customer dep
 
 This analysis was carried out using Python.
 
-# Insights
+### Insights
 
 The highest number of customers are adults i.e between the age of 30 and 50
 
