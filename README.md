@@ -1,4 +1,4 @@
-# Nexus-Bank-Customer-Segmentation-Project
+## Nexus-Bank-Customer-Segmentation-Project
 
 Nexus Bank is a financial institution dedicated to
 delivering unparalleled banking services to their clients. Their mission
@@ -23,16 +23,25 @@ optimize its operations, mitigate risks/ loan defaults, and improve customer dep
 
 This analysis was carried out using Python.
 
-#Insights
+# Insights
 
 The highest number of customers are adults i.e between the age of 30 and 50
+
 It can be noticed that May had the highest encounter with customers however while December had the least.
-It was also noticed that over 70% of the customers have not acquired any loan and further analysis showed that even those with loans have very low default rate
+
+It was also noticed that over 70% of the customers have not acquired any loan and further analysis showed that even those with loans have very low default rate.
+
 Those without housing loan have higher account balance in the bank which makes sense because mortgage would keep taking a portion of their earnings. 
-It can be noticed that the major means of communication of campaigns was through a cell or a telephone.
-From the data provided,36,503 customers either have a secondary or tertiary education(80%)
+
+
+It can be noticed that the major means of communication of campaigns was through a cell or a telephone.,
+
+From the data provided,36,503 customers either have a secondary or tertiary education(80%).
+
 Analysing account balance, it was noticed that those with blue collar and management jobs have higher account balance and those with housemaid jobs or students have lesser account balance. The inference is that this is dependent on how much you earn.
-Looking into deposits, only 11.7% of customers have deposits in the bank and about 88.3% do not. This is really low for revenue generation
+
+Looking into deposits, only 11.7% of customers have deposits in the bank and leaving 88% not having a deposit.
+
 When it comes to market campaign, over 81% of the previous campaigns have unknown outcomes. 
 
 
